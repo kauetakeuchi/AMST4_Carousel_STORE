@@ -1,8 +1,14 @@
+using AMST4_Carousel.MVC.Context;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
+builder.Services.AddDbContext<ApplicationDataContext>(options =>
+options.UseSqlite(builder.Configuration.GetConnectionString("DefaultContext")));
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

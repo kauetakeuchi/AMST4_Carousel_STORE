@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\kaue\\source\\repos\\AMST4_Carousel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FCD1C3D5-16AF-4CC1-8EE8-1DB769685735}|AMST4_Carousel.MVC\\AMST4_Carousel.MVC.csproj|c:\\users\\kaue\\source\\repos\\amst4_carousel\\amst4_carousel.mvc\\views\\shared\\_carousel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FCD1C3D5-16AF-4CC1-8EE8-1DB769685735}|AMST4_Carousel.MVC\\AMST4_Carousel.MVC.csproj|solutionrelative:amst4_carousel.mvc\\views\\shared\\_carousel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FCD1C3D5-16AF-4CC1-8EE8-1DB769685735}|AMST4_Carousel.MVC\\AMST4_Carousel.MVC.csproj|c:\\users\\kaue\\source\\repos\\amst4_carousel\\amst4_carousel.mvc\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD1C3D5-16AF-4CC1-8EE8-1DB769685735}|AMST4_Carousel.MVC\\AMST4_Carousel.MVC.csproj|solutionrelative:amst4_carousel.mvc\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCD1C3D5-16AF-4CC1-8EE8-1DB769685735}|AMST4_Carousel.MVC\\AMST4_Carousel.MVC.csproj|c:\\users\\kaue\\source\\repos\\amst4_carousel\\amst4_carousel.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FCD1C3D5-16AF-4CC1-8EE8-1DB769685735}|AMST4_Carousel.MVC\\AMST4_Carousel.MVC.csproj|solutionrelative:amst4_carousel.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FCD1C3D5-16AF-4CC1-8EE8-1DB769685735}|AMST4_Carousel.MVC\\AMST4_Carousel.MVC.csproj|c:\\users\\kaue\\source\\repos\\amst4_carousel\\amst4_carousel.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD1C3D5-16AF-4CC1-8EE8-1DB769685735}|AMST4_Carousel.MVC\\AMST4_Carousel.MVC.csproj|solutionrelative:amst4_carousel.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD1C3D5-16AF-4CC1-8EE8-1DB769685735}|AMST4_Carousel.MVC\\AMST4_Carousel.MVC.csproj|c:\\users\\kaue\\source\\repos\\amst4_carousel\\amst4_carousel.mvc\\views\\category\\categorylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCD1C3D5-16AF-4CC1-8EE8-1DB769685735}|AMST4_Carousel.MVC\\AMST4_Carousel.MVC.csproj|solutionrelative:amst4_carousel.mvc\\views\\category\\categorylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\kaue\\source\\repos\\AMST4_Carousel\\AMST4_Carousel.MVC\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "AMST4_Carousel.MVC\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\kaue\\source\\repos\\AMST4_Carousel\\AMST4_Carousel.MVC\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "AMST4_Carousel.MVC\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-15T21:32:26.231Z",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\kaue\\source\\repos\\AMST4_Carousel\\AMST4_Carousel.MVC\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "AMST4_Carousel.MVC\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\kaue\\source\\repos\\AMST4_Carousel\\AMST4_Carousel.MVC\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "AMST4_Carousel.MVC\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAywBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T17:13:40.723Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Carousel.cshtml",
-              "DocumentMoniker": "C:\\Users\\kaue\\source\\repos\\AMST4_Carousel\\AMST4_Carousel.MVC\\Views\\Shared\\_Carousel.cshtml",
-              "RelativeDocumentMoniker": "AMST4_Carousel.MVC\\Views\\Shared\\_Carousel.cshtml",
-              "ToolTip": "C:\\Users\\kaue\\source\\repos\\AMST4_Carousel\\AMST4_Carousel.MVC\\Views\\Shared\\_Carousel.cshtml",
-              "RelativeToolTip": "AMST4_Carousel.MVC\\Views\\Shared\\_Carousel.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAB0AAAAGAAAA",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaue\\source\\repos\\AMST4_Carousel\\AMST4_Carousel.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "AMST4_Carousel.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\kaue\\source\\repos\\AMST4_Carousel\\AMST4_Carousel.MVC\\Program.cs",
+              "RelativeToolTip": "AMST4_Carousel.MVC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T19:28:52.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryList.cshtml",
+              "DocumentMoniker": "C:\\Users\\kaue\\source\\repos\\AMST4_Carousel\\AMST4_Carousel.MVC\\Views\\Category\\CategoryList.cshtml",
+              "RelativeDocumentMoniker": "AMST4_Carousel.MVC\\Views\\Category\\CategoryList.cshtml",
+              "ToolTip": "C:\\Users\\kaue\\source\\repos\\AMST4_Carousel\\AMST4_Carousel.MVC\\Views\\Category\\CategoryList.cshtml",
+              "RelativeToolTip": "AMST4_Carousel.MVC\\Views\\Category\\CategoryList.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-15T21:36:58.303Z",
+              "WhenOpened": "2024-05-01T17:58:13.205Z",
               "EditorCaption": ""
             }
           ]
